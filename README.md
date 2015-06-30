@@ -6,7 +6,6 @@ Description :
 	simulating garage tracking embedded system. 
 
 Features :
-	-Runnig LCD 
-	-Using Buzzer for alarm tone 
-	-Using 2 sensors for calculating speed.
-	
+	- Runnig LCD 
+	- Using Buzzer for alarm tone 
+	- Using 2 sensors for calculating speed.
